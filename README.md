@@ -1,4 +1,4 @@
-#### The exercise for the PHP course "Learn PHP The Right Way - Class Constants" lesson 2.1.
+#### The exercise for the PHP course "Learn PHP The Right Way - Class Constants" lesson 2.6.
 
 https://www.youtube.com/watch?v=bEGNvUxYf2o&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-&index=40
 
