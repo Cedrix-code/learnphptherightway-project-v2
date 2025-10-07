@@ -17,7 +17,6 @@ class Transaction
 
     public static function getCount()
     {
-        // Return a dummy value or implement actual logic
         return self::$count;
     }
 
